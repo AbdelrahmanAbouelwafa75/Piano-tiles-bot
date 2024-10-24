@@ -1,7 +1,7 @@
 # Piano-tiles-bot
-A bot that plays piano tiles for you hit 3 crowns in every test i put it to
-=How to use the bot=
-First start the main.py
-Right click on the 4 lanes for the tiles adjacent to the start button not above it 
-=How to stop the bot=
-press "q" on your keyboard
+A bot that plays piano tiles for you hit 3 crowns in every test i put it to<br>
+=How to use the bot=<br>
+First start the main.py<br>
+Right click on the 4 lanes for the tiles adjacent to the start button not above it<br> 
+=How to stop the bot=<br>
+press "q" on your keyboard<br>
